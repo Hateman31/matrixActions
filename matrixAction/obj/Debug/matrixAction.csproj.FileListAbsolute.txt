@@ -1,0 +1,9 @@
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\bin\Debug\matrixAction.exe.config
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\bin\Debug\matrixAction.exe
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\bin\Debug\matrixAction.pdb
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.Form1.resources
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.Properties.Resources.resources
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.csproj.GenerateResource.Cache
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.exe
+C:\Users\vlad\Documents\Visual Studio 2012\Projects\matrixAction\matrixAction\obj\Debug\matrixAction.pdb
